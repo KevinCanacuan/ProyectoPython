@@ -1,2 +1,2 @@
 # ProyectoPython
-Proyecto realizado por: PatricioMendoza y Kevin Canacuán
+Proyecto 2019B
